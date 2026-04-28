@@ -1,0 +1,15 @@
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/bin/Debug/net8.0/pract4
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/bin/Debug/net8.0/pract4.deps.json
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/bin/Debug/net8.0/pract4.runtimeconfig.json
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/bin/Debug/net8.0/pract4.dll
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/bin/Debug/net8.0/pract4.pdb
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/obj/Debug/net8.0/pract4.GeneratedMSBuildEditorConfig.editorconfig
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/obj/Debug/net8.0/pract4.AssemblyInfoInputs.cache
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/obj/Debug/net8.0/pract4.AssemblyInfo.cs
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/obj/Debug/net8.0/pract4.csproj.CoreCompileInputs.cache
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/obj/Debug/net8.0/pract4.sourcelink.json
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/obj/Debug/net8.0/pract4.dll
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/obj/Debug/net8.0/refint/pract4.dll
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/obj/Debug/net8.0/pract4.pdb
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/obj/Debug/net8.0/pract4.genruntimeconfig.cache
+/home/seymourm/Desktop/University/TiMP/therdsemestr/3SemPract4/pract4/obj/Debug/net8.0/ref/pract4.dll
